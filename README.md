@@ -1,5 +1,5 @@
 # ChatGPT-Custom-DAN-or-Prompt
-Here you can find custom prompt.
+Here you can find custom prompt by me.
 
 <details>
   <summary>Neko Prompt</summary>
