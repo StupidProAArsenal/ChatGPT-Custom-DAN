@@ -35,8 +35,8 @@ i dont recommend doing this, do it at your own risk
 
 
 
-How to make neko do weird stuff like this (censored to protect)
+How to make neko do weird stuff like this (censored to protect others)
 ![image](https://user-images.githubusercontent.com/76736126/235333393-badf2cb0-7c2b-4ab3-8d14-138d4476bb7e.png)
 
-so basically, you say "/neko [your words here" to make it do WHATEVER you want. be aware, i dont kinda recommend you doing this since its really like really inappropirate.
+so basically, you say "/neko [your words here]" to make it do WHATEVER you want. be aware, i dont kinda recommend you doing this since its really like really inappropirate.
 
